@@ -4,10 +4,10 @@ This repository contains the code and documentation for a pattern analysis proje
 
 Team Members:
 
-Dogiparthi Aasrith (GitHub Username: mahatalakshmi)
-Shobith
-Mahata Lakshmi
-Maneesha
+Dogiparthi Aasrith (GitHub Username: DogiparthiAasrith)<br/>
+Shobith <br/>
+Mahata Lakshmi <br/>
+Maneesha <br/>
 
 Project Overview:
 

@@ -1,0 +1,29 @@
+Introduction:
+
+This repository contains the code and documentation for a pattern analysis project implemented by a team of four members. The project aims to analyze patterns of motion using three MPU9250 sensors and an ESP32 module. The MPU9250 is a motion tracking device that combines a gyroscope, accelerometer, and magnetometer, enabling accurate motion sensing.
+
+Team Members:
+
+Dogiparthi Aasrith (GitHub Username: mahatalakshmi)
+Shobith
+Mahata Lakshmi
+Maneesha
+
+Project Overview:
+
+The goal of this project is to track and analyze the movement patterns of an object or a person in a three-dimensional space. The three MPU9250 sensors are used to capture the orientation and acceleration data, which is then processed and analyzed by the ESP32 module.
+
+Components Used:
+
+3x MPU9250 Sensors
+ESP32 Development Board
+Connecting Wires
+Breadboard
+
+Features:
+
+Motion tracking using MPU9250 sensors.
+Data fusion from multiple sensors for enhanced accuracy.
+Wireless data transmission to a central system for analysis.
+Pattern recognition and analysis algorithms to identify specific movements.
+![image](https://github.com/mahatalakshmi/IOT_Pattern_Analysis/assets/91476640/57e7a6fe-878c-47e7-8a8f-4c14319e7089)
